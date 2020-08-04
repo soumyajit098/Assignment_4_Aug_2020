@@ -1,0 +1,7 @@
+D:\Front end\DotNetConsoleApps\AssignmentOnCollection\AssignmentOnCollection\bin\Debug\AssignmentOnCollection.exe.config
+D:\Front end\DotNetConsoleApps\AssignmentOnCollection\AssignmentOnCollection\bin\Debug\AssignmentOnCollection.exe
+D:\Front end\DotNetConsoleApps\AssignmentOnCollection\AssignmentOnCollection\bin\Debug\AssignmentOnCollection.pdb
+D:\Front end\DotNetConsoleApps\AssignmentOnCollection\AssignmentOnCollection\obj\Debug\AssignmentOnCollection.csproj.CoreCompileInputs.cache
+D:\Front end\DotNetConsoleApps\AssignmentOnCollection\AssignmentOnCollection\obj\Debug\AssignmentOnCollection.exe
+D:\Front end\DotNetConsoleApps\AssignmentOnCollection\AssignmentOnCollection\obj\Debug\AssignmentOnCollection.pdb
+D:\Front end\DotNetConsoleApps\AssignmentOnCollection\AssignmentOnCollection\obj\Debug\AssignmentOnCollection.csprojAssemblyReference.cache
